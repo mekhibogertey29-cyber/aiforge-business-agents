@@ -1,0 +1,8 @@
+{
+  "agent": "07_sales_tracker",
+  "state": "done",
+  "current_task": "Wrote sales.json",
+  "owned_job": "Simulate / track sales, revenue, and basic metrics for the listing. Never change product or marketing.",
+  "last_update": "2026-10-07T08:17:51.370332Z",
+  "extra": {}
+}

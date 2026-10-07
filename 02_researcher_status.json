@@ -1,0 +1,8 @@
+{
+  "agent": "02_researcher",
+  "state": "done",
+  "current_task": "Wrote research.json",
+  "owned_job": "Analyze demand signals and competition for the ideas provided. Output only research notes. Never design products or write sales copy.",
+  "last_update": "2026-10-07T08:17:44.607481Z",
+  "extra": {}
+}
